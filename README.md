@@ -6,4 +6,4 @@
 
 * besides, I use this method to analyze DataFrame data, first discretize numerical varialbes and second transform DataFrame data to transaction data set; then applying the apriori to mine rules
 
-* 
+* [data_feature.py](https://github.com/AiDatawxy/association_rules_apriori/blob/master/data_feature.py) contains functions to pre-handle data set, and [apriori.py](https://github.com/AiDatawxy/association_rules_apriori/blob/master/apriori.py) contains the main algorithm
